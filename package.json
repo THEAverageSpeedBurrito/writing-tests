@@ -7,7 +7,7 @@
     "test": "test"
   },
   "scripts": {
-    "test": "mocha"
+    "test": "mocha test/twoSum.test.js"
   },
   "author": "Evan Busse",
   "license": "ISC",
